@@ -53,13 +53,30 @@
 </div>
 
 <!-- Resultados -->
-<!-- Resultado forms -->
-<!--<div align="center" class='container'>
-	<h2 align="center"> ⚡ Resultado Forms ⚡</h2>
+<!-- Resultado API -->
+<div align="center" class='container'>
+	<h2 align="center"> ⚡ Resultados API ⚡</h2>
 </div>
+
+<!-- Resultados parciais -->
 <div align="center" class='result'>
-	<img alt="#result_form" title="#result_form" src="./results_git/img.png" width=1000" height="600"/>
-</div>-->
+	<h3 align="center">  Acessando as urls de aluno e matricula </h3>
+	<img alt="#result_1" title="#result_1" src="./results_git/result_1.gif" width=1000" height="600"/>
+</div>
+													
+<!-- Resultados parciais -->
+<div align="center" class='result'>
+	<h3 align="center">  Acessando as urls das matriculas de cada aluno </h3>
+	<img alt="#result_2" title="#result_2" src="./results_git/result_2.gif" width=1000" height="600"/>
+</div>
+
+<!-- Resultados parciais -->
+<div align="center" class='result'>
+	<h3 align="center">  Teste de acesso a API - Autenticação </h3>
+	<img alt="#result_3" title="#result_3" src="./results_git/result_3.gif" width=1000" height="600"/>
+</div>
+													
+													
 
 
 
