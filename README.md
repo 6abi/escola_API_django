@@ -17,7 +17,7 @@
 
  <!-- Status do projeto -->
 <h4 align="center"> 
-	 🚧 API contruida em Python com Django 🚀 Em contrução...  🚧
+	 🚧 API contruida em Python com Django REST Framework 🚀 Em contrução...  🚧
 </h4>
 
 
