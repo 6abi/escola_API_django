@@ -42,9 +42,13 @@
 		<li>asgiref==3.4.1</li>
 		<li>Django==3.2.5</li>
 		<li>python-decouple==3.4</li>
+		<li>djangorestframework==3.12.4</li>
+		<li>importlib-metadata==4.6.0</li>
+		<li>Markdown==3.3.4</li>
 		<li>pytz==2021.1</li> 
 		<li>sqlparse==0.4.1</li>
-		<li>typing-extensions==3.10.0.0</li> 
+		<li>typing-extensions==3.10.0.0</li>
+		<li>zipp==3.5.0</li>
 	</ul>
 </div>
 
