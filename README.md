@@ -4,7 +4,10 @@
 <h1 align="center">escola_API_django</h1>
 <div class="box" align="center" display='flex'>
 	<a href="https://www.djangoproject.com/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" width="130" height="40"/></a><a href="https://www.python.org/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="130" height="40" alt="Python3" /></a>
+	<a href="https://www.postman.com/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" width="130" height="40"/></a>
 </div>
+
+
 
 <p align="center"> Desenvolvimento de um uma API em Python com o framework Django </p>
 
@@ -31,6 +34,7 @@
 	<ul>
 		<li><a href="https://www.python.org/"  target="_blank">Python</a></li>
 		<li><a href="https://www.djangoproject.com/"  target="_blank">Django</a></li>
+		<li><a href="https://www.postman.com/"  target="_blank">postman</a></li>
 	</ul>
 </div>
 
