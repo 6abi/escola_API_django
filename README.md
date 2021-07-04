@@ -2,7 +2,7 @@
 
  <!-- Explicação do projeto -->
 <h1 align="center">escola_API_django</h1>
-
+<h2 align="center">Descrição do Projeto</h2>
 <p align="center"> Desenvolvimento de um uma API em Python com o framework Django </p>
 
 
