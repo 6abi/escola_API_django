@@ -11,8 +11,8 @@
 
  <!-- Status do projeto -->
 <h4 align="center"> 
-	 🚧 API contruida em Python com Django   Em contrução...  🚧
-</h4>🚀
+	 🚧 API contruida em Python com Django 🚀 Em contrução...  🚧
+</h4>
 
 
 <!-- Indice -->
