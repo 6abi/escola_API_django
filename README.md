@@ -1,4 +1,4 @@
-# escola_API_django
+
 
  <!-- Explicação do projeto -->
 <h1 align="center">escola_API_django</h1>
