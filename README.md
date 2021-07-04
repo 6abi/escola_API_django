@@ -39,8 +39,8 @@
 	<h2 align="center"> Pré-requisitos </h2>
 	<p align="center">$ pip install requirements.txt</p>
 	<ul>
-		<li>asgiref==3.4.0</li>
-		<li>Django==3.2.4</li>
+		<li>asgiref==3.4.1</li>
+		<li>Django==3.2.5</li>
 		<li>python-decouple==3.4</li>
 		<li>pytz==2021.1</li> 
 		<li>sqlparse==0.4.1</li>
