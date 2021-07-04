@@ -34,12 +34,12 @@
 <!-- Tecnologias envolvidas -->
 <div align="center" class='container'>
 	<h2 align="center"> 🛠 Tecnologias envolvidas</h2>
-
+	<ul>
 		<li><a href="https://www.python.org/"  target="_blank">Python</a></li>
 		<li><a href="https://www.djangoproject.com/"  target="_blank">Django</a></li>
 		<li><a href="https://www.django-rest-framework.org/"  target="_blank">Django REST Framework</a></li>
 		<li><a href="https://www.postman.com/"  target="_blank">Postman</a></li>	
-
+	</ul>
 </div>
 
 <!-- Requirements -->
