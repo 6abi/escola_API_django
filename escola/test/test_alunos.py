@@ -10,6 +10,6 @@ def AlunoTestCase(APITestCase):
             nome= 'Aluno teste', rg = '123456789', cpf = '12345678912', data_nascimento = '06-06-2000', celular = '1145678912'
         )
 
-    def test_falhador(self):
-        self.fail('Teste aluno falhou propositalmente')
+    # def test_falhador(self):
+    #     self.fail('Teste aluno falhou propositalmente')
 
