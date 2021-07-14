@@ -9,7 +9,7 @@
  <!-- Status do projeto -->
  <h2 align="center">Status</h2>
 <h4 align="center"> 
-	 🚧 API contruida em Python com Django REST Framework 🚀 Em contrução...  🚧
+	 ✅ API contruida em Python com Django REST Framework 🚀 Finalizado ✅
 </h4>
 
 
